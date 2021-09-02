@@ -1,0 +1,6 @@
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Database\bin\Debug\BPT.Test.ACC.Database.dacpac
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Database\bin\Debug\BPT.Test.ACC.Database.dll
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Database\bin\Debug\BPT.Test.ACC.Database.pdb
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Database\obj\Debug\BPT.Test.ACC.Database.sqlproj.AssemblyReference.cache
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Database\obj\Debug\BPT.Test.ACC.Database.dll
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Database\obj\Debug\BPT.Test.ACC.Database.pdb

@@ -1,0 +1,84 @@
+02/09/2021 05:04:17 p. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'BPT.Test.ACC.Database' del equipo 'DESKTOP-4BJ1SG2' por el usuario 'AbrahamCC'.
+02/09/2021 05:04:17 p. m.	Se inició la importación del esquema de la base de datos.
+02/09/2021 05:04:22 p. m.	Recopilando credenciales de la base de datos
+02/09/2021 05:04:22 p. m.	Recopilando opciones de base de datos
+02/09/2021 05:04:22 p. m.	Recopilando usuarios
+02/09/2021 05:04:22 p. m.	Recopilando roles
+02/09/2021 05:04:22 p. m.	Recopilando roles de aplicación
+02/09/2021 05:04:22 p. m.	Recopilando pertenencias a roles
+02/09/2021 05:04:22 p. m.	Recopilando grupos de archivos
+02/09/2021 05:04:22 p. m.	Recopilando catálogos de texto completo
+02/09/2021 05:04:22 p. m.	Recopilando ensamblados
+02/09/2021 05:04:22 p. m.	Recopilando certificados
+02/09/2021 05:04:22 p. m.	Recopilando claves asimétricas
+02/09/2021 05:04:22 p. m.	Recopilando claves simétricas
+02/09/2021 05:04:22 p. m.	Recopilando claves simétricas cifradas
+02/09/2021 05:04:22 p. m.	Recopilando esquemas
+02/09/2021 05:04:22 p. m.	Recopilando colecciones de esquemas XML
+02/09/2021 05:04:22 p. m.	Recopilando tipos de datos definidos por el usuario
+02/09/2021 05:04:22 p. m.	Recopilando tipos definidos por el usuario
+02/09/2021 05:04:22 p. m.	Recopilando tipos de tabla
+02/09/2021 05:04:22 p. m.	Recopilando claves únicas para tipos de tabla
+02/09/2021 05:04:22 p. m.	Recopilando claves principales para tipos de tabla
+02/09/2021 05:04:22 p. m.	Recopilando índices para tipos de tablas
+02/09/2021 05:04:22 p. m.	Recopilando restricciones CHECK para tipos de tabla
+02/09/2021 05:04:22 p. m.	Recopilando restricciones DEFAULT para tipos de tabla
+02/09/2021 05:04:22 p. m.	Recopilando funciones de partición
+02/09/2021 05:04:22 p. m.	Recopilando esquemas de partición
+02/09/2021 05:04:26 p. m.	Recopilando funciones
+02/09/2021 05:04:26 p. m.	Recopilando funciones cifradas
+02/09/2021 05:04:26 p. m.	Recopilando agregados
+02/09/2021 05:04:26 p. m.	Recopilando procedimientos
+02/09/2021 05:04:26 p. m.	Recopilando procedimientos cifrados
+02/09/2021 05:04:26 p. m.	Recopilando tablas
+02/09/2021 05:04:26 p. m.	Recopilando claves principales
+02/09/2021 05:04:26 p. m.	Recopilando restricciones UNIQUE
+02/09/2021 05:04:26 p. m.	Recopilando claves externas
+02/09/2021 05:04:26 p. m.	Recopilando restricciones DEFAULT
+02/09/2021 05:04:26 p. m.	Recopilando restricciones CHECK
+02/09/2021 05:04:26 p. m.	Recopilando vistas
+02/09/2021 05:04:26 p. m.	Recopilando vistas cifradas
+02/09/2021 05:04:26 p. m.	Recopilando índices
+02/09/2021 05:04:26 p. m.	Recopilando estadísticas
+02/09/2021 05:04:26 p. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+02/09/2021 05:04:26 p. m.	Recopilando listas de propiedades de búsqueda
+02/09/2021 05:04:26 p. m.	Recopilando propiedades de búsqueda
+02/09/2021 05:04:26 p. m.	Recopilando índices de texto completo
+02/09/2021 05:04:26 p. m.	Recopilando índices de almacenamiento de columnas
+02/09/2021 05:04:26 p. m.	Recopilando índices espaciales
+02/09/2021 05:04:26 p. m.	Recopilando índices XML
+02/09/2021 05:04:26 p. m.	Recopilando índices XML selectivos
+02/09/2021 05:04:26 p. m.	Recopilando desencadenadores cifrados
+02/09/2021 05:04:26 p. m.	Recopilando desencadenadores
+02/09/2021 05:04:26 p. m.	Recopilando DDL triggers cifrados y de CLR
+02/09/2021 05:04:26 p. m.	Recopilando DDL triggers
+02/09/2021 05:04:26 p. m.	Recopilando sinónimos
+02/09/2021 05:04:26 p. m.	Recopilando valores predeterminados
+02/09/2021 05:04:26 p. m.	Recopilando enlaces UDDT de restricción de datos
+02/09/2021 05:04:26 p. m.	Recopilando reglas
+02/09/2021 05:04:26 p. m.	Recopilando enlaces UDDT de restricción de datos
+02/09/2021 05:04:26 p. m.	Recopilando tipos de mensaje
+02/09/2021 05:04:26 p. m.	Recopilando colas
+02/09/2021 05:04:26 p. m.	Recopilando contratos
+02/09/2021 05:04:26 p. m.	Recopilando servicios
+02/09/2021 05:04:26 p. m.	Recopilando notificaciones de eventos
+02/09/2021 05:04:26 p. m.	Recopilando enlaces de servicio remoto
+02/09/2021 05:04:26 p. m.	Recopilando prioridades de Broker
+02/09/2021 05:04:27 p. m.	Recopilando firmas
+02/09/2021 05:04:27 p. m.	Recopilando opciones de compresión de datos
+02/09/2021 05:04:27 p. m.	Recopilando tipos de secuencia
+02/09/2021 05:04:27 p. m.	Recopilando directivas de seguridad
+02/09/2021 05:04:27 p. m.	Recopilar claves de cifrado de columna
+02/09/2021 05:04:27 p. m.	Recopilando claves maestras de columna
+02/09/2021 05:04:27 p. m.	Recopilando orígenes de datos externos
+02/09/2021 05:04:27 p. m.	Recopilando formatos de archivo externos
+02/09/2021 05:04:27 p. m.	Recopilando tablas externas
+02/09/2021 05:04:27 p. m.	Recopilando propiedades extendidas
+02/09/2021 05:04:27 p. m.	Recopilando credenciales
+02/09/2021 05:04:27 p. m.	Recopilando inicios de sesión
+02/09/2021 05:04:27 p. m.	Recopilando auditorías de servidor
+02/09/2021 05:04:28 p. m.	Buscando elementos duplicados en el proyecto
+02/09/2021 05:04:28 p. m.	Ha finalizado el procesamiento de los elementos duplicados
+02/09/2021 05:04:28 p. m.	Finalizó la importación de la base de datos.
+02/09/2021 05:04:28 p. m.	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Database\Registros de importación de esquemas\BPT.Test.ACC.Databas_20210902100417.log
+02/09/2021 05:04:28 p. m.	Haga clic en Finalizar para continuar...

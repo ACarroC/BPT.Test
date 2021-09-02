@@ -1,0 +1,14 @@
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\bin\Debug\netcoreapp3.1\BPT.Test.ACC.Core.deps.json
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\bin\Debug\netcoreapp3.1\BPT.Test.ACC.Core.runtimeconfig.json
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\bin\Debug\netcoreapp3.1\BPT.Test.ACC.Core.runtimeconfig.dev.json
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\bin\Debug\netcoreapp3.1\BPT.Test.ACC.Core.dll
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\bin\Debug\netcoreapp3.1\BPT.Test.ACC.Core.pdb
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\obj\Debug\netcoreapp3.1\BPT.Test.ACC.Core.csproj.AssemblyReference.cache
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\obj\Debug\netcoreapp3.1\BPT.Test.ACC.Core.AssemblyInfoInputs.cache
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\obj\Debug\netcoreapp3.1\BPT.Test.ACC.Core.AssemblyInfo.cs
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\obj\Debug\netcoreapp3.1\BPT.Test.ACC.Core.csproj.CoreCompileInputs.cache
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\obj\Debug\netcoreapp3.1\BPT.Test.ACC.Core.dll
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\obj\Debug\netcoreapp3.1\BPT.Test.ACC.Core.pdb
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\obj\Debug\netcoreapp3.1\BPT.Test.ACC.Core.genruntimeconfig.cache
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AbrahamCC\source\repos\EntrevistaBPT\BPT.Test.ACC\BPT.Test.ACC.Core\bin\Debug\netcoreapp3.1\appsettings.json
